@@ -14,7 +14,7 @@ require 'rake'
 require 'jeweler'
 Jeweler::Tasks.new do |gem|
   # gem is a Gem::Specification... see http://docs.rubygems.org/read/chapter/20 for more options
-  gem.name = "string-stats-ah"
+  gem.name = "string-stats-ahh"
   gem.homepage = "http://github.com/AmalHussein/string-stats-ah"
   gem.license = "MIT"
   gem.summary = %Q{Adds analysis methods to the String class.}
