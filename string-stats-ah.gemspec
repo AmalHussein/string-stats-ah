@@ -27,7 +27,8 @@ Gem::Specification.new do |s|
     "VERSION",
     "lib/string-stats-ah.rb",
     "spec/spec_helper.rb",
-    "spec/string-stats-ah_spec.rb"
+    "spec/string-stats-ah_spec.rb",
+    "string-stats-ah.gemspec"
   ]
   s.homepage = "http://github.com/AmalHussein/string-stats-ah"
   s.licenses = ["MIT"]
